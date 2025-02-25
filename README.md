@@ -1,1 +1,1 @@
-# dicitonaries
+dictionaries
